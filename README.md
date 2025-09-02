@@ -3,7 +3,7 @@
 This reporistory contains the following assignments:
 ## Experiment 2: Numerical Python
 
-Normalization Problem and Divisible By 3 Problem link:
+Normalization Problem and Divisible By 3 Problem link: https://github.com/gabriel-marygraceclare/EXPERIMENT-2---NUMERICAL-PYTHON/blob/main/Experiment%202%20-%20Numerical%20Python.ipynb
 
 ## Normalization Problem
 In this section, we are tasked to create a 5 x 5 ndarray and store it to Variable X and save the normalized array as X_Normalized.npy
